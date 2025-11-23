@@ -1,4 +1,15 @@
-module github.com/davfive/gitspaces/v2
+module github.com/davfive/gitspaces.golang/v2
+
+// DEPRECATED
+// 
+// This Go module is deprecated. The project has been reimplemented in Python and is published on PyPI:
+// https://pypi.org/project/gitspaces
+// 
+// Please use the Python package going forward. The v2.* Go versions are retracted in go.mod.
+// If you really want the golan version, it is at
+// * https://pkg.go.dev/github.com/davfive/gitspaces.golang/v2
+// * https://github.com/davfive/gitspaces.golang
+deprecated
 
 go 1.22.0
 
