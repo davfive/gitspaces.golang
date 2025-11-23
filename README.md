@@ -5,7 +5,9 @@
 
 # gitspaces - A git development workspace manager
 
-> Coming in Spring 2024
+# DEPRECATED
+
+This module is deprecated and archived at [gitspaces.golang](https://github.com/davfive/gitspaces). v3 is now a [gitspaces pypi package](https://pypi.org/project/gitspaces/).
 
 ## What is GitSpaces
 
