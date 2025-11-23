@@ -9,7 +9,7 @@ module github.com/davfive/gitspaces.golang/v2
 // If you really want the golan version, it is at
 // * https://pkg.go.dev/github.com/davfive/gitspaces.golang/v2
 // * https://github.com/davfive/gitspaces.golang
-deprecated
+deprecate
 
 go 1.22.0
 
